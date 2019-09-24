@@ -1,10 +1,8 @@
 # README
 
+・Application
 scaffoldで作ったViewをerb⇒slimに変換
 erbとslimの対比用
-
-・Application
-ドットインストールの課題
 
 ・version
 Ruby 2.5
